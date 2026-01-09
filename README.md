@@ -5,8 +5,7 @@ I built an end-to-end Genetic Algorithm (GA) system to optimise parameters for a
 
 ## Quick links (for supervisors / recommenders)
 - **2-page technical summary (PDF):** `docs/technical_summary_6CCS3PRJ.pdf`
-- **Dissertation (PDF):** `docs/dissertation.pdf` 
-- **Optional recommender notes / sample phrasing:** `RECOMMENDER_NOTES.md`
+- **Dissertation (PDF):** `docs/dissertation.pdf`
 - **Data notes (datasets not included):** `data/README.md`
 
 > **Note:** In this project, “predicting” refers to **parameter optimisation via backtesting**, not a standalone price-forecasting model.
